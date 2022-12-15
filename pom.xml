@@ -29,9 +29,9 @@
     </developers>
 
     <scm>
-        <connection>scm:git:git://github.com/simpligility/ossrh-demo.git</connection>
-        <developerConnection>scm:git:ssh://github.com:simpligility/ossrh-demo.git</developerConnection>
-        <url>http://github.com/simpligility/ossrh-demo/tree/master</url>
+        <connection>scm:git:git://github.com/Crispeds/ProcessorManagement.git</connection>
+        <developerConnection>scm:git:ssh://github.com/Crispeds/ProcessorManagement.git</developerConnection>
+        <url>https://github.com/Crispeds/ProcessorManagement/tree/master</url>
     </scm>
 
     <build>
